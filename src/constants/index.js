@@ -91,14 +91,6 @@ import {
       icon: mongodb,
     },
     {
-      name: "MySQL",
-      icon: mysql,
-    },
-    {
-      name: "php",
-      icon: php,
-    },
-    {
       name: "git",
       icon: git,
     },
